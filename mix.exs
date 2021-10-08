@@ -45,7 +45,7 @@ defmodule PhxIzitoast.MixProject do
   defp deps do
     [
       {:phoenix_html, "~> 3.0.2"},
-      {:phoenix, "~> 1.4.11"},
+      {:phoenix, "~> 1.6"},
       {:ex_doc, "~> 0.21", only: :dev, runtime: false}
     ]
   end
