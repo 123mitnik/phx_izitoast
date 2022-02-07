@@ -44,7 +44,7 @@ defmodule PhxIzitoast.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix_html, "~> 3.0.2"},
+      {:phoenix_html, "~> 3.2"},
       {:phoenix, "~> 1.6.0"},
       {:ex_doc, "~> 0.21", only: :dev, runtime: false}
     ]
